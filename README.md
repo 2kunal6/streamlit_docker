@@ -8,3 +8,6 @@
 
 ### TODO
 - Expose this over internet
+
+### Prerequisites
+- **Docker:** Here are the installation instructions: https://github.com/2kunal6/util/blob/main/installations.txt
